@@ -1,5 +1,5 @@
 # AIM: Write a Python program to calculate the simple interest based on user input.
-# Coder:
+# Coder:Ansari Mohammad Maaz Mohammad Sajid 
 # Date:26/1/26
 
 # Write your code here
